@@ -1,0 +1,16 @@
+body {
+    background-color: #6f9fcf;
+    margin: 10% 20%;
+    color: #fff;
+    text-align: center;
+}
+
+.board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.board div{
+    margin: 15px;
+}
